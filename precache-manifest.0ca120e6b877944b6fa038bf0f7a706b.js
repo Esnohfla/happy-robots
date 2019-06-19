@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe34a16926529b5793d3e916c65cf64c",
+    "revision": "657e2bf75f01e6d7403d10ec1e8fedb7",
     "url": "/happy-robots/index.html"
   },
   {
-    "revision": "27f970365489ab317c7c",
+    "revision": "2883d945f805b12f1a47",
     "url": "/happy-robots/static/css/2.31dafeb2.chunk.css"
   },
   {
-    "revision": "f7d4ebcaf22119b6d24a",
+    "revision": "24325daa347f7699c3b5",
     "url": "/happy-robots/static/css/main.0232698e.chunk.css"
   },
   {
-    "revision": "27f970365489ab317c7c",
-    "url": "/happy-robots/static/js/2.1a543e43.chunk.js"
+    "revision": "2883d945f805b12f1a47",
+    "url": "/happy-robots/static/js/2.abd0d98f.chunk.js"
   },
   {
-    "revision": "f7d4ebcaf22119b6d24a",
-    "url": "/happy-robots/static/js/main.52eb0e50.chunk.js"
+    "revision": "24325daa347f7699c3b5",
+    "url": "/happy-robots/static/js/main.8622841a.chunk.js"
   },
   {
     "revision": "c49e24953a702eaf6ac6",
